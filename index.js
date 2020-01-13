@@ -4,7 +4,7 @@ function myAnimal() { console.log('cat')
   return animal
 }
 
-function yourAnimal() {
+function yourAnimal() { console.log('cat')
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
